@@ -5,8 +5,6 @@ public class Main {
         for(a=0, b=1; a < b && a + 1; b++){
 
         System.out.println(b++);
-            System.out.println(b++);
-
-            
+          
     }
 }
